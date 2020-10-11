@@ -1,3 +1,3 @@
 # Menu-Console
-#Menu Manager Implemented in C#
-#Using Inheritance, Polymorphism, Collections, Interfaces, Delegates
+Menu Manager Implemented in C# <br />
+Using Inheritance, Polymorphism, Collections, Interfaces, Delegates
